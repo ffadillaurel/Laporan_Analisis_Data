@@ -133,3 +133,6 @@ Program akan menampilkan:
 * Countplot
 
 Semua grafik ditampilkan menggunakan jendela matplotlib.
+<img width="997" height="619" alt="image" src="https://github.com/user-attachments/assets/f9fd34e2-fd7d-4496-9d39-1a56801f6601" />
+<img width="1486" height="751" alt="image" src="https://github.com/user-attachments/assets/ea9eaf3d-1b1e-4518-b6cf-4ce7dc590582" />
+
